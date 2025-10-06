@@ -1,0 +1,30 @@
+{
+  "name": "sidama-coffee-catalogue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitsumnege/sidama-coffee-catalogu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitsumnege/sidama-coffee-catalogu/issues"
+  },
+  "homepage": "https://github.com/fitsumnege/sidama-coffee-catalogu#readme",
+  "description": "",
+  "dependencies": {
+    "framer-motion": "^12.23.22",
+    "lucide-react": "^0.544.0",
+    "next": "^15.5.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "recharts": "^3.2.1"
+  }
+}
